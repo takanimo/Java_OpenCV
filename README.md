@@ -1,2 +1,2 @@
 # Java_OpenCV
-Java project using OpenCV. Mainly practices for stitch algorithms. OpenCV ver. are 2.4.13 and 3.1
+(In progress) Java project using OpenCV. Mainly practices for stitch algorithms using SURF and Kmeans algo. OpenCV ver. are 2.4.13 and 3.1
